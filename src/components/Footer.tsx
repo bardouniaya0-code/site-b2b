@@ -2,7 +2,7 @@
 export default function Footer() {
   return (
     <footer className="foot">
-      Atlas Pro · Fournitures pour les professionnels de l'hôtellerie · Site de démonstration (entreprise fictive)
+      Atlas Pro · Fournitures pour les professionnels de l'hôtellerie · © 2026 Atlas Pro, tous droits réservés
     </footer>
   );
 }
