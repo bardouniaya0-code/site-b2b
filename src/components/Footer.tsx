@@ -2,7 +2,7 @@
 export default function Footer() {
   return (
     <footer className="foot">
-      Atlas Pro · Fournitures pour les professionnels de l'hôtellerie · Site de démonstration (entreprise fictive) · Tél. : 05 22 45 67 89
+     Atlas Pro · Fournitures pour les professionnels de l'hôtellerie · © 2026 Atlas Pro, tous droits réservés · Tél. : 05 22 45 67 89
     </footer>
   );
 }
