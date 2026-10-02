@@ -6,6 +6,7 @@ export default function Accueil() {
     <div className="wrap">
       <section className="hero">
         <span className="tag">Vente aux professionnels · B2B</span>
+        <p className="tag">🚚 Livraison offerte dès 500 €</p>
         <h1>Tout l'équipement des pros de l'hôtellerie, livré en 48 h.</h1>
         <p className="lead">
           Atlas Pro livre les restaurants, hôtels et traiteurs : vaisselle, linge, consommables.
