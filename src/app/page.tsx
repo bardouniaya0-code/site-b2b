@@ -6,7 +6,7 @@ export default function Accueil() {
     <div className="wrap">
       <section className="hero">
         <span className="tag">Vente aux professionnels · B2B</span>
-        <h1>Le fournisseur des cuisines et des hôtels, en un seul compte.</h1>
+        <h1>Tout l'équipement des pros de l'hôtellerie, livré en 48 h.</h1>
         <p className="lead">
           Atlas Pro livre les restaurants, hôtels et traiteurs : vaisselle, linge, consommables.
           Tarifs négociés par établissement, commande au carton, facturation à 30 jours.
