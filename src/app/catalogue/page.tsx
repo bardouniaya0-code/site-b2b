@@ -48,7 +48,7 @@ export default async function Catalogue() {
               <div className="cat">{p.categorie} · {p.ref}</div>
               <h3>{p.nom}</h3>
               <div className="price">
-                <span className="v">{Number(p.prix_ht).toFixed(2)} €</span>
+                <span className="v">{Number(p.prix_ht).toFixed(2)}</span>
                 <span className="u">/ {p.unite} · HT</span>
               </div>
               {p.palier && <div className="palier">{p.palier}</div>}
