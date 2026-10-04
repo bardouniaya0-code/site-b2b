@@ -12,6 +12,7 @@ export default function Header() {
         <nav className="nav">
           <Link className="navlink" href="/catalogue">Catalogue</Link>
           <Link className="navlink" href="/espace">Espace client</Link>
+          <Link className="navlink" href="/contact">Contact</Link>
           <Link href="/espace" className="btn primary">Espace pro</Link>
         </nav>
       </div>
