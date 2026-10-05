@@ -17,7 +17,7 @@ export default function Accueil() {
           <Link href="/catalogue" className="btn">Voir le catalogue</Link>
         </div>
         <div className="facts">
-          <div className="fact"><div className="n mono">1 200+</div><div className="l">établissements clients</div></div>
+          <div className="fact"><div className="n mono">1 500+</div><div className="l">établissements clients</div></div>
           <div className="fact"><div className="n mono">48 h</div><div className="l">délai de livraison</div></div>
           <div className="fact"><div className="n mono">Net 30</div><div className="l">paiement à 30 jours</div></div>
         </div>
