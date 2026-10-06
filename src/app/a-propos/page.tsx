@@ -5,11 +5,11 @@ export default function APropos() {
       <section className="section">
         <div className="sec-head">
           <h2>Qui sommes-nous ?</h2>
-          <span className="note">Le fournisseur des pros de l'hôtellerie depuis 2015.</span>
+          <span className="note">Le fournisseur des pros de l’hôtellerie depuis 2015.</span>
         </div>
 
         <p className="lead">
-          Atlas Pro est né d'un constat simple : les restaurants et les hôtels perdent un temps fou
+          Atlas Pro est né d’un constat simple : les restaurants et les hôtels perdent un temps fou
           à commander leur matériel chez dix fournisseurs différents. Nous avons réuni vaisselle,
           linge et consommables sur une seule plateforme, avec des tarifs négociés pour chaque établissement.
         </p>

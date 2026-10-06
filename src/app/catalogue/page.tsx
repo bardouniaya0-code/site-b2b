@@ -52,7 +52,7 @@ export default async function Catalogue() {
                 <span className="u">/ {p.unite} · HT</span>
               </div>
               {p.palier && <div className="palier">{p.palier}</div>}
-              <div className="pro-only">🔒 tarif négocié visible dans l'espace pro</div>
+              <div className="pro-only">🔒 tarif négocié visible dans l’espace pro</div>
             </div>
           ))}
         </div>
