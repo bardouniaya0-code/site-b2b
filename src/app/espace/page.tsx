@@ -66,7 +66,7 @@ export default function Espace() {
         </div>
 
         <div className="disclaimer">
-          ⚠️ Démonstration. La connexion est factice pour l'instant ; à l'étape « base de données », elle utilisera de vrais comptes.
+          ⚠️ Démonstration. La connexion est factice pour l’instant ; à l’étape « base de données », elle utilisera de vrais comptes.
         </div>
       </section>
     </div>
