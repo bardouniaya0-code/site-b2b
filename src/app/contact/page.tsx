@@ -16,7 +16,7 @@ export default function Contact() {
                     <div className="card">
                         <div className="cat">Email</div>
                         <h3>contact@atlaspro.ma</h3>
-                        <p className="lead" style={{ margin: 0, fontSize: 14 }}> Réponse sous 24 h ouvrées, même l'été.</p>
+                        <p className="lead" style={{ margin: 0, fontSize: 14 }}> Réponse sous 24 h ouvrées, même  l’été.</p>
                     </div>
                     <div className="card">
                         <div className="cat">Adresse</div>
